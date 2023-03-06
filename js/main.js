@@ -3,8 +3,8 @@ function randomNum(min, max) {
 }
 
 function getImage() {
-  var url = "/img/" + randomNum(1, 21) + ".jpg";
-  console.log(url);
-  var img = document.getElementById("imageid");
-  img.src = url;
+  var poo = "/img/" + randomNum(1, 21) + ".jpg";
+  console.log(poo);
+  var pee = document.getElementById("imageid");
+  pee.src = poo;
 }
