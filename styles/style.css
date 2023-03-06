@@ -1,0 +1,43 @@
+html, 
+body, 
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Antonio', sans-serif;
+    font-size: 62.5%; /* Normally 100% is 16 pixels. We want the size to be 10px so we do 62.5& */
+}
+img{
+    height: 40rem;
+    width: 40rem;
+}
+
+h1 {
+    font-size: 8rem;
+    text-align: center;
+}
+
+h2 {
+    font-size: 6rem;
+    text-align: center;
+}
+
+button {
+    height: 10rem;
+    width: 100vw;
+    font-size: 4rem;
+    background-color: lightgray;
+}
+.bk {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: lightgray;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-top: 3rem;
+    border-radius: 8px;
+  }
