@@ -7,4 +7,5 @@ function getImage() {
   console.log(poo);
   var pee = document.getElementById("imageid");
   pee.src = poo;
+  d;
 }
