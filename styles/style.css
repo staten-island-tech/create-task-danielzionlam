@@ -5,7 +5,7 @@ body,
     margin: 0;
     box-sizing: border-box;
     font-family: 'Antonio', sans-serif;
-    font-size: 62.5%; /* Normally 100% is 16 pixels. We want the size to be 10px so we do 62.5& */
+    font-size: 62.5%; 
 }
 img{
     height: 40rem;
