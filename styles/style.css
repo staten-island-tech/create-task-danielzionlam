@@ -21,6 +21,10 @@ h2 {
     font-size: 6rem;
     text-align: center;
 }
+h3 {
+    font-size: 5rem;
+    text-align: center;
+}
 
 button {
     height: 10rem;
